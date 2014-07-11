@@ -1,5 +1,5 @@
 INSTRUCTIONS:
- - Use the W key (top left block) and the UP key (top right block) to
+ - Use the W key (left column) and the UP key (right column) to
  	move the blocks up!
  - Use the A and RIGHT keys to swipe away the blocks you don't need.
  - If you incorrectly match a color, ponts are deducted!!
